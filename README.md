@@ -24,10 +24,11 @@ Pins extra repositories
 
 <p align="left">
 	<img title="Python" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/python-3.svg" width="90" height="90" />
-	<img title="Git" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/git.svg" width="70" height="40" />
-	<img title="CSS" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/css-5.svg" width="50" height="50" />
-	<img title="HTML5" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/html5.svg" width="50" height="50" />
-	<img title="Arduino" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/arduino.svg" width="50" height="50" />
+	<img title="Django" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/django.svg" width="90" height="90" />
+	<img title="Git" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/git.svg" width="90" height="90" />
+	<img title="CSS" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/css-5.svg" width="90" height="90" />
+	<img title="HTML5" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/html5.svg" width="90" height="90" />
+	<img title="Arduino" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/arduino.svg" width="90" height="90" />
 </p>
     
    Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
