@@ -7,11 +7,27 @@ A student biomedical engineer passionate about Data Science.:bar_chart:. I like 
 - 💬 Talk to me about Muscle Cars :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing web development using python's Django framework
 
-### My skills include
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/IanMaguithi/IanMaguithi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMaguithi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/IanMaguithi/IanMaguithi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanMaguithi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ian's GitHub Stats" />
+</a>
+<!--
+Pins extra repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IanMaguithi&repo=IanMaguithi)](https://github.com/IanMaguithi/IanMaguithi)
+-->
+
+### Skills include
 
 <p align="left">
-	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
+	<img title="Python" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/python-3.svg" width="90" height="90" />
+	<img title="Git" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/git.svg" width="70" height="40" />
+	<img title="CSS" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/css-5.svg" width="50" height="50" />
+	<img title="HTML5" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/html5.svg" width="50" height="50" />
+	<img title="Arduino" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/arduino.svg" width="50" height="50" />
 </p>
     
    Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
