@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Ian Maguithi Warui,
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ian Maguithi Warui,
 
 A student biomedical engineer passionate about Data Science.:bar_chart:. I like automating things, building websites, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :new: Innovation and Automation :robot: 
 
 - 🔭 I’m currently working on an e-commece website
 - :bulb: I'm interested in all things innovation and automation: **Robotics, Autonomous and Electric vehicles**
 - 💬 Talk to me about Muscle Cars :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing web development using python's Django framework
+- 🌱 I’m currently pursuing mobile app Google's Flutter Framework
 
 ## &#x1f4c8; GitHub Stats
 
@@ -25,6 +25,7 @@ Pins extra repositories
 <p align="left">
 	<img title="Python" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/python-3.svg" width="90" height="90" />
 	<img title="Django" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/django.svg" width="90" height="90" />
+	<img title="Flutter" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/flutter-logo.svg" width="90" height="90" />
 	<img title="Git" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/git.svg" width="90" height="90" />
 	<img title="CSS" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/css-5.svg" width="90" height="90" />
 	<img title="HTML5" src="https://raw.githubusercontent.com/IanMaguithi/IanMaguithi/main/assets/html5.svg" width="90" height="90" />
