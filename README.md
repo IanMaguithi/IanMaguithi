@@ -1,6 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ian Maguithi Warui,
-
-A student biomedical engineer passionate about Data Science.:bar_chart:. I like automating things, building websites, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :new: Innovation and Automation :robot: 
+[![wakatime](https://wakatime.com/badge/user/2288c4b7-6e20-468a-96ba-05dc711bcdf1.svg)](https://wakatime.com/@2288c4b7-6e20-468a-96ba-05dc711bcdf1)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm Ian Maguithi Warui, A student biomedical engineer passionate about Data Science.:bar_chart:. I like automating things, building websites, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :new: Innovation and Automation :robot: 
 
 - 🔭 I’m currently working on an e-commece website
 - :bulb: I'm interested in all things innovation and automation: **Robotics, Autonomous and Electric vehicles**
