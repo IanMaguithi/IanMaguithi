@@ -1,11 +1,21 @@
 [![wakatime](https://wakatime.com/badge/user/2288c4b7-6e20-468a-96ba-05dc711bcdf1.svg)](https://wakatime.com/@2288c4b7-6e20-468a-96ba-05dc711bcdf1)
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Ian Maguithi Warui, A student biomedical engineer passionate about Data Science.:bar_chart:. I like automating things, building websites, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :new: Innovation and Automation :robot: 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Ian</h1>
+<h3 align="center">🌐 Mobile App Developer ✍️ UI/UX Designer</h3>
 
-- 🔭 I’m currently working on an e-commece website
-- :bulb: I'm interested in all things innovation and automation: **Robotics, Autonomous and Electric vehicles**
-- 💬 Talk to me about Muscle Cars :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing mobile app Google's Flutter Framework
+- I'm currently building web and windows applications using Flutter.
+
+### 🤝 Connect with me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IanMaguithi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-m-b9265a171)
+
+---
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=IanMaguithi&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Maguithi's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IanMaguithi&theme=tokyonight&hide_border=true" alt="Maguithi's github streak" width="48%" >
+
+---
 
 ## &#x1f4c8; GitHub Stats
 
