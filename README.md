@@ -15,16 +15,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=IanMaguithi&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Maguithi's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IanMaguithi&theme=tokyonight&hide_border=true" alt="Maguithi's github streak" width="48%" >
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMaguithi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 ---
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/IanMaguithi/IanMaguithi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMaguithi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/IanMaguithi/IanMaguithi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanMaguithi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ian's GitHub Stats" />
-</a>
 <!--
 Pins extra repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IanMaguithi&repo=IanMaguithi)](https://github.com/IanMaguithi/IanMaguithi)
