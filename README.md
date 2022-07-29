@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Ian</h1>
 <h3 align="center">🌐 Mobile App Developer ✍️ UI/UX Designer</h3>
 
-- I'm currently building web and windows applications using Flutter.
+- I'm currently building mobile📱, web🌐 and windows🪟 applications using [Flutter](https://flutter.dev/).
 
 ### 🤝 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IanMaguithi)
