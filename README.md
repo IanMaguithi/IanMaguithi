@@ -1,4 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/2288c4b7-6e20-468a-96ba-05dc711bcdf1.svg)](https://wakatime.com/@2288c4b7-6e20-468a-96ba-05dc711bcdf1)
+[![twitter](https://img.shields.io/twitter/follow/IanMaguithi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/IanMaguithi)
+[![github](https://img.shields.io/github/followers/IanMaguithi?logo=github&style=plastic)](https://github.com/IanMaguithi?tab=followers)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Ian</h1>
 <h3 align="center">🌐 Mobile App Developer ✍️ UI/UX Designer</h3>
 
